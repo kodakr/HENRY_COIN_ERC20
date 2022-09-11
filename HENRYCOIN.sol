@@ -17,3 +17,24 @@ abstract contract ERC_STANDARD {
     event Approval(address indexed _owner, address indexed _spender, uint256 _value);
     
 }
+contract Ownership {
+    address public owner;
+    address public newOwner;
+    event TransferOfOwnership(address indexed _from, address indexed _to);
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    function AssignNewOwnership(address _newOwner) public {
+        require(msg.sender == owner, "Owner Only Function");
+        newOwner = _newOwner;
+    }
+    function OwnershipAcceptance() public {
+        require(msg.sender == newOwner);
+        emit TransferOfOwnership(owner, msg.sender);
+        owner = newOwner;
+        newOwner = address(0);
+        
+    }
+}
