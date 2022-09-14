@@ -22,7 +22,7 @@ Purchase coin via vendor
 
 
 
-
+Contact Me:
 thecodiingelephant@gmail.com
 
 
