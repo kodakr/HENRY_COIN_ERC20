@@ -11,7 +11,8 @@ HRX posseses these Features via its contract✨;
 - Use of SafeMath library to prevent Hacks. 🕵️‍♀️🔏
 
 
-Feel free to purchase HRX 💰💰💰💰 via "Vendor Contract" (rETH for HRX)
+Feel free to purchase HRX 💰💰💰💰(rETH for HRX) via "Vendor Contract" below 👇
+
 
 - Testnet⛓      ===============>                "Ropsten"
 
@@ -26,7 +27,7 @@ Feel free to purchase HRX 💰💰💰💰 via "Vendor Contract" (rETH for HRX)
 
 
 
-Contact Me📭
+If hacker finds bug🕵️‍,Contact Me📭
 thecodiingelephant@gmail.com
 
 
