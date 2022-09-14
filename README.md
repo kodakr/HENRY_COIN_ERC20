@@ -17,7 +17,7 @@ Feel free to purchase HRX 💰💰💰💰 via Vendor (rETH for HRX)
 
 - Vendor Contract Address ===========>           "0x8f6420ea0F1B1D46a2409d9DFF7892459004D625"
 
-- Token Contract Address ===========>            "0x1711F35B647EcB4C11D522adB21272e4156A569C"
+- Token Contract Address ===========>             "0x1711F35B647EcB4C11D522adB21272e4156A569C"
 
 
 
