@@ -21,7 +21,7 @@ abstract contract ERC_STANDARD {
     event Minting(address indexed _to, uint256 indexed _amt);
     
 }
-/** An Ownership contract enabling the token to be transfered/ solld to
+/** An Ownership contract enabling the token to be transfered/sold to
 a future owner.
 
 Only the current Owner can do this and new owner's consent/ acceptance required to be completed
