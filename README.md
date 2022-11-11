@@ -11,14 +11,14 @@ HRX posseses these Features via its contract✨;
 - Use of SafeMath library to prevent Hacks. 🕵️‍♀️🔏
 
 
-Feel free to purchase HRX 💰💰💰💰(rETH for HRX) via "Vendor Contract" below 👇
+Feel free to purchase HRX 💰💰💰💰(GoerliETH for HRX) via "Vendor Contract" below 👇
 
 
-- Testnet⛓      ===============>                "Ropsten"
+- Testnet⛓      ===============>                "Goerli"
 
-- Vendor Contract Address ===========>           "0x8f6420ea0F1B1D46a2409d9DFF7892459004D625"
+- Token Contract Address ===========>             "0xf3f3137C613d9483f8b103e6A0017837B6B53D38"
 
-- Token Contract Address ===========>             "0x1711F35B647EcB4C11D522adB21272e4156A569C"
+- Vendor Contract Address ===========>           "0x17f0c1231D66F27c8Ae977598129d75De4422255"
 
 
 
